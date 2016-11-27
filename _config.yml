@@ -5,12 +5,12 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Jeff Wolfram # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
+     <h1>Learning new things every day!</h1>
      <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
   header_text_feature_image:
   footer_text: >
@@ -25,7 +25,7 @@ theme_settings:
   facebook: jeffwolfram
   flickr:
   github: jeffwolfram
-  google_plus: jeffwolfram
+  google_plus: https://plus.google.com/u/0/+JeffWolfram00
   instagram: 
   linkedin:  https://www.linkedin.com/in/jeffwolfram
   pinterest:
@@ -39,7 +39,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-88068895-1
   disqus_shortname:
   katex: true # Enable if using math markup
 
