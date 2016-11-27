@@ -18,20 +18,20 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: jeffwolfram@gmail.com
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: jeffwolfram
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
-  google_plus:
-  instagram:
-  linkedin:  # Full URL
+  github: jeffwolfram
+  google_plus: jeffwolfram
+  instagram: 
+  linkedin:  https://www.linkedin.com/in/jeffwolfram
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:  https://stackexchange.com/users/3721642/jeffw
   steam:
   tumblr:
   twitter:
