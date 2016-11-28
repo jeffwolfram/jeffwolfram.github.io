@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://jeffwolfram.github.io" # the base hostname & protocol for your site
+url: "http://www.jeffwolfram.us" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -11,7 +11,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Learning new things every day!</h1>
-     <p>This page is still under construction.Come back every week and check out the changes.</p>
+     <p>This page is still under construction. Come back every week and check out the changes.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
